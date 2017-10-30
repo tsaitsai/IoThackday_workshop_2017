@@ -1,0 +1,8 @@
+Link to drive image for Raspberry Pi 3.
+If you have a lot of devices, it's better to run this image off an external USB hard drive or SSD rather than
+a microSD card to avoid wearing out the drive media.
+
+The image is a Raspbian Jessie image, with default login "pi", and password "raspbian".
+
+https://drive.google.com/open?id=0B4OlaiyiwIKtS0tBdDNZaS1ZSzA
+
