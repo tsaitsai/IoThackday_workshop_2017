@@ -12,6 +12,7 @@
   - Select your ESP8266 in "Tools -> Board"
   
   Remember to change your ssid and password to match your network!
+  Remember to change the MQTT broker IP address to match your Raspberry Pi!
 
 */
 
@@ -74,7 +75,7 @@ int echoPin = D7;    //Echo, GPIO 13=D7 on ESP8266
 
 
 //servo pin
-int servoPin = 15; // attach servo to pin D5, which is 14 on NodeMCU
+int servoPin = 15; // attach servo to pin D8, which is GPIO15 on NodeMCU
 
 //ultrasonic
 long duration, cm, inches;
